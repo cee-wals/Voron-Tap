@@ -63,3 +63,5 @@ fp-info-cache
 # Built Visual Studio Code Extensions
 *.vsix
 
+# cwilder updates
+*.gcode
